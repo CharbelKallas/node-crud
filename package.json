@@ -1,0 +1,19 @@
+{
+  "name": "node-crud",
+  "version": "1.0.0",
+  "description": "Simple Crud app using node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharbelKallas/node-crud.git"
+  },
+  "author": "Charbel Kallas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharbelKallas/node-crud/issues"
+  },
+  "homepage": "https://github.com/CharbelKallas/node-crud#readme"
+}
